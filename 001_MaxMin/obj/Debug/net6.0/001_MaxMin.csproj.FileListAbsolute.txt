@@ -1,0 +1,15 @@
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\bin\Debug\net6.0\001_MaxMin.exe
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\bin\Debug\net6.0\001_MaxMin.deps.json
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\bin\Debug\net6.0\001_MaxMin.runtimeconfig.json
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\bin\Debug\net6.0\001_MaxMin.dll
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\bin\Debug\net6.0\001_MaxMin.pdb
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\obj\Debug\net6.0\001_MaxMin.csproj.AssemblyReference.cache
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\obj\Debug\net6.0\001_MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\obj\Debug\net6.0\001_MaxMin.AssemblyInfoInputs.cache
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\obj\Debug\net6.0\001_MaxMin.AssemblyInfo.cs
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\obj\Debug\net6.0\001_MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\obj\Debug\net6.0\001_MaxMin.dll
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\obj\Debug\net6.0\refint\001_MaxMin.dll
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\obj\Debug\net6.0\001_MaxMin.pdb
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\obj\Debug\net6.0\001_MaxMin.genruntimeconfig.cache
+C:\Users\prich\OneDrive\Рабочий стол\ДЗ\001_MaxMin\obj\Debug\net6.0\ref\001_MaxMin.dll
