@@ -4,20 +4,20 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
-{Console.WriteLine("Введите 3 числа:");
+{Console.WriteLine("Введите числа:");
     
     int a, b, c;
+
     a = Convert.ToInt32(Console.ReadLine());
     b = Convert.ToInt32(Console.ReadLine());
     c = Convert.ToInt32(Console.ReadLine());
    
-{
-    if (b > a)
-    Console.Write("{0} наибольшее число", b);      
-    
-    else
+int max = a; 
+   
+if (b > max)
+max = b;
+if (c > max)
+max = c;
 
-    if (c > b)
-    Console.Write("{0} наибольшее число", c);
-    }
+    Console.Write("{0} наибольшее число", max);
 }
