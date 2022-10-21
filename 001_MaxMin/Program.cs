@@ -14,6 +14,7 @@ Console.WriteLine("Введите два числа:");
     if (a > b)
     {
         Console.WriteLine("{0} наибольшее число", a);
+        Console.WriteLine("{0} наименьшее число", b);
     }
 
     else
