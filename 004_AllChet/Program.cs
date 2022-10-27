@@ -5,7 +5,7 @@
 
 Console.WriteLine("Введите число N> ");
 
-string number = Console.ReadLine();
+string number = Console.ReadLine ();
 int N = Convert.ToInt32(number); 
 
 for (int i = 2; i <= N; i += 2)
